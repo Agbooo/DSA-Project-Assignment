@@ -34,6 +34,9 @@ The data is visualized using Power BI with the following components:
 The dataset was transformed in Power BI by:
 
 - **Unpivoting Year Columns**: Creating "Year" and "Growth %" fields for better trend analysis
+
+- excel work
+- https://1drv.ms/x/c/ae65e314a9fe6abf/EZsx9vAWEDJFlOAAVCdFaKsB95zOud1YwQZDhsHIGp-sFw?e=7nYMt6
 - Converting percentage strings to numeric values
 - Ensuring departmental labels are consistent
 
